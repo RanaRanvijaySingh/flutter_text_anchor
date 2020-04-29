@@ -1,0 +1,17 @@
+name: flutter_text_anchor
+description: A flutter package that helps in creating an anchored text. Widget provides freedom to attach multiple link in a text.
+version: 0.0.1
+homepage: https://github.com/RanaRanvijaySingh/flutter_text_anchor.git
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
